@@ -1,4 +1,4 @@
-# Dilute Ising Moel Machine Learning
+# Dilute Ising Model Machine Learning
 
 This project was submitted in partial fulfillment of my Bachelor's of Science in Physics with Theoretical Physics at King's College London. 
 
