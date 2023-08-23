@@ -5,7 +5,7 @@ This project was submitted in partial fulfillment of my Bachelor's of Science in
 In the scope of this project are three main accomplishments, namely:
 1. Reproduced results from "Discovering phases, phase transitions, and
 crossovers through unsupervised machine learning: A critical examination", Hu et al., 2017. https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.062122
-2. Extended this methodology to the dilute Ising model, constituting original research.
+2. Extended this methodology to the **dilute** Ising model, constituting original research.
 3. Devised a new method for finding the critical temperature of the Ising model using KMeans clustering, and demonstrated this method to be superior to the well-established Binder Ratio method when dealing with small datasets. 
 
 ### Abstract
